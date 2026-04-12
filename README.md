@@ -1,4 +1,4 @@
-# Olá, eu sou o Ralf Guth 👋
+# Hi, I'm Ralf Guth 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+developer+by+trade;Legacy+negotiator+by+necessity;Reverse-engineering+old+Saturn+binaries+for+fun;Turning+coffee+into+software+since+always" alt="Typing SVG" />
@@ -11,41 +11,41 @@
   <a href="https://github.com/ralfguth" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ralfguth-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ralfguth/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ralfguth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou desenvolvedor de software com foco em **backend, arquitetura, integrações e sistemas distribuídos**.  
-Gosto de trabalhar com problemas que envolvem **Java, microsserviços, mensageria, banco de dados, APIs e infraestrutura**.
+I'm a software developer focused on **backend, architecture, integrations, and distributed systems**.  
+I enjoy working on problems involving **Java, microservices, messaging, databases, APIs, and infrastructure**.
 
-Mas nem só de payload vive o homem.
+But man does not live by payload alone.
 
-Nas horas vaga gosto de aplicar **engenharia de software, automação e tooling** na criação de patchs de tradução de jogos japonêses de **Sega Saturn** xD
+In my spare time, I like applying **software engineering, automation, and tooling** to building translation patches for **Japanese Sega Saturn games** xD
 
 ---
 
-## Stack principal
+## Main Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,kubernetes,git,github,linux,python,azure,maven" />
+  <img src="https://skillicons.dev/icons?i=java,quarkus,spring,postgres,redis,docker,kubernetes,git,github,linux,python,azure,maven" />
 </p>
 
-### O que eu costumo mexer
-- **Backend:** Java, APIs REST, arquitetura em camadas, microsserviços
-- **Banco de dados:** PostgreSQL, modelagem, queries, performance
-- **Mensageria:** filas, eventos, integrações assíncronas
+### What I usually work with
+- **Backend:** Java, Quarkus, REST APIs, layered architecture, microservices
+- **Database:** PostgreSQL, data modeling, queries, performance
+- **Messaging:** queues, events, asynchronous integrations
 - **Infra/DevOps:** Docker, Kubernetes, CI/CD, cloud
-- **Ferramentas:** automação, scripts, troubleshooting, observabilidade
-- **Side quests:** reverse engineering, tooling, romhacking, IA aplicada a workflow técnico
+- **Tools:** automation, scripts, troubleshooting, observability
+- **Side quests:** reverse engineering, tooling, romhacking, AI applied to technical workflows
 
 ---
 
-## Estatísticas
+## Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ralfguth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -58,41 +58,41 @@ Nas horas vaga gosto de aplicar **engenharia de software, automação e tooling*
 
 ---
 
-## Projeto em destaque
+## Featured Project
 
 ### 🎮 Langrisser III English Translation Patch
-Um dos meus projetos pessoais favoritos.
+One of my favorite personal projects.
 
-Estou trabalhando em um patch de tradução para um jogo japonês de **Sega Saturn**, com foco em:
-- organização do processo técnico
-- tooling e automação
-- validação de assets e binários
-- engenharia reversa
-- uso de agentes de IA para trabalho pesado de análise e experimentação
+I'm working on a translation patch for a **Japanese Sega Saturn** game, with a focus on:
+- technical process organization
+- tooling and automation
+- asset and binary validation
+- reverse engineering
+- using AI agents for heavy analysis and experimentation work
 
-📦 Repositório: [langrisser3-english](https://github.com/ralfguth/langrisser3-english)
+📦 Repository: [langrisser3-english](https://github.com/ralfguth/langrisser3-english)
 
-> Meu papel é cuidar da engenharia de software.  
-> Os agentes de IA carregam piano.  
-> Os binários de 1996 aceitam ou não 😢.
-
----
-
-## Coisas que eu curto construir
-
-- sistemas
-- integrações entre serviços
-- soluções com foco em clareza e manutenção
-- automações para reduzir trabalho repetitivo
-- ferramentas para lidar com problemas estranhos
-- projetos pessoais que parecem má ideia no começo e legalzinhos depois
+> My role is handling the software engineering side.  
+> The AI agents do the heavy lifting.  
+> The 1996 binaries decide whether they accept it or not 😢
 
 ---
 
-## Side Quest atual
+## Things I Like Building
+
+- systems
+- integrations between services
+- solutions focused on clarity and maintainability
+- automations that reduce repetitive work
+- tools for dealing with weird problems
+- personal projects that seem like a bad idea at first and kind of cool later
+
+---
+
+## Current Side Quest
 
 ```txt
-[✓] escrever código
-[✓] resolver pepino de integração
-[✓] usar IA como ferramenta
-[✓] apanhar de binário legado com dignidade
+[✓] writing code
+[✓] solving integration headaches
+[✓] using AI as a tool
+[✓] getting beaten up by legacy binaries with dignity
