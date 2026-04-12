@@ -31,8 +31,6 @@ In my spare time, I like applying **software engineering, automation, and toolin
 
 ## Main Stack
 
-## Main Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
