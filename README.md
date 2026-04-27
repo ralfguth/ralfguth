@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a software developer focused on backend, architecture and distributed systems.  
+I'm a swe focused on backend, architecture and distributed systems.  
 I enjoy working on problems involving Java, microservices, messaging, databases, APIs and infrastructure.
 
 In my spare time, I like applying **software engineering, automation, and tooling** to building translation patches for **Japanese Sega Saturn games** xD
