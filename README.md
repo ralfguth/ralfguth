@@ -20,10 +20,8 @@
 
 ## About Me
 
-I'm a software developer focused on **backend, architecture, integrations, and distributed systems**.  
-I enjoy working on problems involving **Java, microservices, messaging, databases, APIs, and infrastructure**.
-
-But man does not live by payload alone.
+I'm a software developer focused on backend, architecture and distributed systems.  
+I enjoy working on problems involving Java, microservices, messaging, databases, APIs and infrastructure.
 
 In my spare time, I like applying **software engineering, automation, and tooling** to building translation patches for **Japanese Sega Saturn games** xD
 
@@ -50,6 +48,7 @@ In my spare time, I like applying **software engineering, automation, and toolin
 - **Messaging:** queues, events, asynchronous integrations
 - **Infra/DevOps:** Docker, Kubernetes, CI/CD, cloud
 - **Tools:** automation, scripts, troubleshooting, observability
+
 - **Side quests:** reverse engineering, tooling, romhacking, AI applied to technical workflows
 
 ---
@@ -97,9 +96,6 @@ I'm working on a translation patch for a **Japanese Sega Saturn** game, with a f
 - solutions focused on clarity and maintainability
 - automations that reduce repetitive work
 - tools for dealing with weird problems
-- personal projects that seem like a bad idea at first and kind of cool later
-
----
 
 ## Current Side Quest
 
