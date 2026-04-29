@@ -1,7 +1,7 @@
 # Hi, I'm Ralf Guth 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+developer+by+trade;Reverse-engineering+old+Saturn+binaries+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+developer+by+trade;Reverse-engineering+old+binaries+for+fun" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 I'm a SWE focused on backend, architecture and distributed systems.  
 I enjoy working on problems involving Java, microservices, messaging, databases, APIs and infrastructure.
 
-In my spare time, I like applying **software engineering, automation, and tooling** to building translation patches for **Japanese Sega Saturn games** xD
+In my spare time, I like applying **software engineering, automation, and tooling** to building translation patches for **retro-games** xD
 
 ---
 
