@@ -57,9 +57,5 @@ I enjoy working on problems involving Java, microservices, messaging, databases,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ralfguth&theme=github-light&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ralfguth&theme=default&hide_border=true" />
 </p>
