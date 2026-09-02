@@ -66,33 +66,3 @@ In my spare time, I like applying **software engineering, automation, and toolin
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ralfguth&theme=default&hide_border=true" />
 </p>
-
----
-
-## Featured Project
-
-### 🎮 Langrisser III English Translation Patch
-One of my favorite personal projects.
-
-I'm working on a translation patch for a **Japanese Sega Saturn** game, with a focus on:
-- technical process organization
-- tooling and automation
-- asset and binary validation
-- reverse engineering
-- using AI agents for heavy analysis and experimentation work
-
-📦 Repository: [langrisser3-english](https://github.com/ralfguth/langrisser3-english)
-
-> My role is handling the software engineering side.  
-> The AI agents do the heavy lifting.  
-> The 1996 binaries decide whether they accept it or not 😢
-
----
-
-## Things I Like Building
-
-- systems
-- integrations between services
-- solutions focused on clarity and maintainability
-- automations that reduce repetitive work
-- tools for dealing with weird problems
