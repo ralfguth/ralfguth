@@ -23,8 +23,6 @@
 I'm a SWE focused on backend, architecture and distributed systems.  
 I enjoy working on problems involving Java, microservices, messaging, databases, APIs and infrastructure.
 
-In my spare time, I like applying **software engineering, automation, and tooling** to building translation patches for **retro-games** xD
-
 ---
 
 ## Main Stack
